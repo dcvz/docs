@@ -120,7 +120,7 @@ Step into `~/.tea` and delete the packages you no longer want. It’s that
 simple.
 
 We use fully qualified domain names for package namespacing, so it may tricky
-to find what you need to delete. You can dryrun tea to fine the path:
+to find what you need to delete. You can dryrun tea to find the path:
 
 ```sh
 $ tea -n exa
