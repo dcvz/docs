@@ -147,7 +147,7 @@ function. To see the full environment for your project run `tea -En` or simply
 > ‡ extracted from the `README.md` or `VERSION` files.
 
 ## Supported Files
-The following files are supported by eea and will be used to derive necessary dependencies from them:
+The following files are supported by tea and will be used to derive necessary dependencies from them:
 
 
 * `package.json`
